@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 My video Walkthrough:
 
-<img style="max-width:300px;" src="">
+<img style="max-width:300px;" src="lab-task-squirrel/Project1.gif">
 
 GIF created with VEED.io
 
